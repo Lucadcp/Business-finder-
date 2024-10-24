@@ -1,0 +1,6 @@
+streamlit
+pandas
+googlemaps==4.10.0
+pytz
+streamlit-chat
+```
